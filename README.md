@@ -6,7 +6,7 @@
   
   # Description 
 
-  An application which takes in a csv list to ping IP hosts for status
+  A Shell Script which takes in a csv list to ping IP hosts for status
 
   Table of Contents |
   ----------------- |
