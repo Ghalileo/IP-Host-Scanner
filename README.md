@@ -6,7 +6,7 @@
   
   # Description 
 
-  A Shell Script which takes in a csv list to ping IP hosts for status
+  A PowerShell Script which takes in a csv list to ping IP hosts for status
 
   Table of Contents |
   ----------------- |
